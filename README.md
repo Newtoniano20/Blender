@@ -1,2 +1,3 @@
 # Blender
- My Blender Projects
+This is my library of Blender Projects.
+
